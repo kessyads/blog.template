@@ -1,0 +1,102 @@
+body{
+    background-color: #91B6BE;
+}
+
+.collum{
+    display: flex;
+    border: 1px solid white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 189px;
+    height: 270px;
+}
+.container{
+    border: solid 1px white;
+    width: 1000px;
+    height: 800px;
+    margin: 0 0 0 70px;
+}
+
+.footer{
+    height: 10px;
+    width: 10px;
+}
+
+h1{
+    display: none;
+}
+
+h2{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    display: flex;
+}
+
+.header{
+    width: 1200px;
+    height: 200px;
+    border: 1px white solid;
+}
+
+.intro{
+    font-size: 10px;
+    font-family:'Thasadith';
+}
+
+.kessy{
+    width: 135px;
+    height: 160px;
+}
+
+li{
+    margin: 10px;
+    padding: 10px;
+    border: 1px white solid;
+}
+
+
+.list{
+    font-family: "Thasadith";
+    font-size: 18px;
+}
+
+.list{
+    margin-left: 325px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.pageName{
+    text-align: center;
+    font-family: 'Lovers Quarrel';
+    font-size: 43px;
+}
+
+p{
+    font-size: 24px;
+    font-family: "Thasadith";
+    padding: 0 20px;
+}
+
+.queen{
+    width: 300px;
+    height: 160px;
+    padding-left: 330px;
+}
+
+
+ul{
+    list-style:none;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;    
+}
+
+.wishlist{
+    width: 20px;
+    height: 20px;
+    border: 1px white solid;
+}
